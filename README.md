@@ -68,12 +68,6 @@ p2pGeoChat - це додаток для обміну повідомленням�
 
 
 
-### [p2pGeoChat](https://github.com/Kyiv2023/p2pGeoChat)
-
-p2pGeoChat is a real-time location-based messaging application. It allows you to connect with people, vehicles, or even rockets nearby and engage in conversations based on their geographical positions.
-
-
-
 ## Where
 
 ## When
