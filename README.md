@@ -68,6 +68,11 @@ p2pGeoChat - це додаток для обміну повідомленням�
 
 
 
+###  [StableQRCodeGen](https://kyiv2023.github.io/StableQRCodeGen)
+stable diffusion QRCodes
+
+ - Python: LangChain, huggingface/stablediffusion, ControlNet
+
 ## Where
 
 ## When
